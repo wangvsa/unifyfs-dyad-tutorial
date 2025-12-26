@@ -39,7 +39,7 @@ Participants will gain practical experience through exercises and real-world exa
 
 ### Target Audience
 
-This tutorial is designed for a broad range of HPC practitioners, with a focus on beginner to intermediate-level attendees. Approximately 40% of the content will introduce core concepts and motivations for node-local storage systems in HPC, while the remaining 60% will explore intermediate topics such as integrating UnifyFS and DYAD into real applications, performance tuning, and deployment best practices.
+This tutorial is designed for a broad range of HPC practitioners, with a focus on beginner to intermediate-level attendees. Approximately 30% of the content will introduce core concepts and motivations for node-local storage systems in HPC, while the remaining 70% will explore intermediate topics such as integrating UnifyFS and DYAD into real applications, performance tuning, and deployment best practices.
 
 *Prior experience with UnifyFS or DYAD is not required.*
 
