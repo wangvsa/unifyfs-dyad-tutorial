@@ -6,7 +6,7 @@ title = "Home"
 layout = "single"
 +++
 
-[<img src="/static/images/sca26_logo.png" style="max-width:200px;float:right" alt="SCA Logo" />](https://www.sca-hpcasia2026.jp/index.html)
+[<img src="https://www.sca-hpcasia2026.jp/img/common/img_logo.png" style="max-width:200px;float:right" alt="SCA Logo" />](https://www.sca-hpcasia2026.jp/index.html)
 
 ## SCA/HPAsia 2026 Tutorial: Accelerating HPC Application I/O with Fast Node-Local Storage
 
